@@ -1,16 +1,16 @@
  /**
   *
-  *  Portions COPYRIGHT 2025 STMicroelectronics
-  *
+  *  Portions COPYRIGHT 2016 STMicroelectronics
+  *  Copyright (C) 2006-2015, ARM Limited, All Rights Reserved
   *
   ******************************************************************************
   * @file    ssl_client.c
-  * @author  Faiçal FQUIHI
+  * @author  MCD Application Team
   * @brief   SSL client application
   ******************************************************************************
   * @attention
   *
-  * <h2><center>&copy; COPYRIGHT(c) 2025 STMicroelectronics</center></h2>>
+  * <h2><center>&copy; COPYRIGHT(c) 2017 STMicroelectronics</center></h2>>
   *
   * Redistribution and use in source and binary forms, with or without modification,
   * are permitted provided that the following conditions are met:
@@ -323,6 +323,7 @@ void SSL_Client(void const *argument)
       finished = true;
       break;
     }
+    //ajout
 
 
     if (g_calendar_size + ret < sizeof(g_calendar_buffer) - 1) {
@@ -347,7 +348,6 @@ void SSL_Client(void const *argument)
 
   mbedtls_ssl_close_notify( &ssl );
   osThreadTerminate(NULL);
-
 exit:
   mbedtls_net_free( &server_fd );
 

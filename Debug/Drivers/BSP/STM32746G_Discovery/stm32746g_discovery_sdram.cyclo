@@ -1,0 +1,10 @@
+../Drivers/BSP/STM32746G_Discovery/stm32746g_discovery_sdram.c:134:9:BSP_SDRAM_Init	2
+../Drivers/BSP/STM32746G_Discovery/stm32746g_discovery_sdram.c:185:9:BSP_SDRAM_DeInit	2
+../Drivers/BSP/STM32746G_Discovery/stm32746g_discovery_sdram.c:211:6:BSP_SDRAM_Initialization_sequence	1
+../Drivers/BSP/STM32746G_Discovery/stm32746g_discovery_sdram.c:273:9:BSP_SDRAM_ReadData	2
+../Drivers/BSP/STM32746G_Discovery/stm32746g_discovery_sdram.c:292:9:BSP_SDRAM_ReadData_DMA	2
+../Drivers/BSP/STM32746G_Discovery/stm32746g_discovery_sdram.c:311:9:BSP_SDRAM_WriteData	2
+../Drivers/BSP/STM32746G_Discovery/stm32746g_discovery_sdram.c:330:9:BSP_SDRAM_WriteData_DMA	2
+../Drivers/BSP/STM32746G_Discovery/stm32746g_discovery_sdram.c:347:9:BSP_SDRAM_Sendcmd	2
+../Drivers/BSP/STM32746G_Discovery/stm32746g_discovery_sdram.c:365:13:BSP_SDRAM_MspInit	1
+../Drivers/BSP/STM32746G_Discovery/stm32746g_discovery_sdram.c:456:13:BSP_SDRAM_MspDeInit	1

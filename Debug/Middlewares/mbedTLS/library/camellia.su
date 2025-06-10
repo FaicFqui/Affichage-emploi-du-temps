@@ -1,0 +1,10 @@
+../Middlewares/mbedTLS/library/camellia.c:297:13:camellia_feistel	32	static
+../Middlewares/mbedTLS/library/camellia.c:322:6:mbedtls_camellia_init	16	static
+../Middlewares/mbedTLS/library/camellia.c:327:6:mbedtls_camellia_free	16	static
+../Middlewares/mbedTLS/library/camellia.c:338:5:mbedtls_camellia_setkey_enc	296	static
+../Middlewares/mbedTLS/library/camellia.c:443:5:mbedtls_camellia_setkey_dec	320	static
+../Middlewares/mbedTLS/library/camellia.c:491:5:mbedtls_camellia_crypt_ecb	48	static
+../Middlewares/mbedTLS/library/camellia.c:554:5:mbedtls_camellia_crypt_cbc	56	static
+../Middlewares/mbedTLS/library/camellia.c:608:5:mbedtls_camellia_crypt_cfb128	32	static
+../Middlewares/mbedTLS/library/camellia.c:656:5:mbedtls_camellia_crypt_ctr	40	static
+../Middlewares/mbedTLS/library/camellia.c:890:5:mbedtls_camellia_self_test	520	static

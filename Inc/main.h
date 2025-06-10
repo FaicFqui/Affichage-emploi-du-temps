@@ -1,11 +1,12 @@
 /**
   ******************************************************************************
   * @file    LwIP/LwIP_HTTP_Server_Netconn_RTOS/Inc/main.h 
+  * @author  MCD Application Team
   * @brief   Header for main.c module
   ******************************************************************************
   * @attention
   *
-  * Copyright (c) 2025 STMicroelectronics.
+  * Copyright (c) 2016 STMicroelectronics.
   * All rights reserved.
   *
   * This software is licensed under terms that can be found in the LICENSE file
@@ -53,6 +54,8 @@
 
 
 
+
+
 #define GET_REQUEST  "GET /jsp/custom/modules/plannings/anonymous_cal.jsp?resources=208&projectId=15&calType=ical&nbWeeks=4 HTTP/1.1\r\n" \
 		"Host: ade.ensea.fr\r\n" \
 		"Connection: close\r\n\r\n"
@@ -65,7 +68,7 @@ extern volatile uint8_t ssl_done;
 /* Exported functions ------------------------------------------------------- */  
 
 
-/* Déclaration du flag global de synchronisation LVGL */
+
 extern volatile uint8_t ready_to_show;
 
 extern struct netif gnetif_main;

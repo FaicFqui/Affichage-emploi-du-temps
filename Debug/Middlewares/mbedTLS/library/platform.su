@@ -1,0 +1,2 @@
+../Middlewares/mbedTLS/library/platform.c:323:5:mbedtls_platform_setup	16	static
+../Middlewares/mbedTLS/library/platform.c:333:6:mbedtls_platform_teardown	16	static

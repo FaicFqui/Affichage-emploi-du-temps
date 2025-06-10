@@ -84,7 +84,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Application/SW4STM32/startup_stm32f746xx.s|Application/Utilities/Fonts|Inc" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name=""/>
+						<entry excluding="Application/User/Creat_tasks.c|Application/User/Parse_and_Draw.c|Application/SW4STM32/startup_stm32f746xx.s|Application/Utilities/Fonts|Inc" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name=""/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Inc"/>
 					</sourceEntries>
 				</configuration>

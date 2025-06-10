@@ -1,0 +1,9 @@
+../Middlewares/mbedTLS/library/ssl_ciphersuites.c:2112:12:mbedtls_ssl_list_ciphersuites	24	static
+../Middlewares/mbedTLS/library/ssl_ciphersuites.c:2145:34:mbedtls_ssl_ciphersuite_from_string	24	static
+../Middlewares/mbedTLS/library/ssl_ciphersuites.c:2164:34:mbedtls_ssl_ciphersuite_from_id	24	static
+../Middlewares/mbedTLS/library/ssl_ciphersuites.c:2179:13:mbedtls_ssl_get_ciphersuite_name	24	static
+../Middlewares/mbedTLS/library/ssl_ciphersuites.c:2191:5:mbedtls_ssl_get_ciphersuite_id	24	static
+../Middlewares/mbedTLS/library/ssl_ciphersuites.c:2204:19:mbedtls_ssl_get_ciphersuite_sig_pk_alg	16	static
+../Middlewares/mbedTLS/library/ssl_ciphersuites.c:2226:19:mbedtls_ssl_get_ciphersuite_sig_alg	16	static
+../Middlewares/mbedTLS/library/ssl_ciphersuites.c:2246:5:mbedtls_ssl_ciphersuite_uses_ec	16	static
+../Middlewares/mbedTLS/library/ssl_ciphersuites.c:2264:5:mbedtls_ssl_ciphersuite_uses_psk	16	static

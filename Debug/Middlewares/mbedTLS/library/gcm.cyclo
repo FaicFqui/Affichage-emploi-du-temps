@@ -1,0 +1,11 @@
+../Middlewares/mbedTLS/library/gcm.c:87:6:mbedtls_gcm_init	1
+../Middlewares/mbedTLS/library/gcm.c:100:12:gcm_gen_table	5
+../Middlewares/mbedTLS/library/gcm.c:160:5:mbedtls_gcm_setkey	6
+../Middlewares/mbedTLS/library/gcm.c:209:13:gcm_mult	3
+../Middlewares/mbedTLS/library/gcm.c:265:5:mbedtls_gcm_starts	11
+../Middlewares/mbedTLS/library/gcm.c:348:5:mbedtls_gcm_update	12
+../Middlewares/mbedTLS/library/gcm.c:407:5:mbedtls_gcm_finish	7
+../Middlewares/mbedTLS/library/gcm.c:442:5:mbedtls_gcm_crypt_and_tag	4
+../Middlewares/mbedTLS/library/gcm.c:468:5:mbedtls_gcm_auth_decrypt	4
+../Middlewares/mbedTLS/library/gcm.c:504:6:mbedtls_gcm_free	1
+../Middlewares/mbedTLS/library/gcm.c:740:5:mbedtls_gcm_self_test	42

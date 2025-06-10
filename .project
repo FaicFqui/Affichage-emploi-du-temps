@@ -30,44 +30,9 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>Application/SW4STM32/syscalls.c</name>
-			<type>1</type>
-			<locationURI>copy_PARENT12/syscalls.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/app_ethernet.c</name>
-			<type>1</type>
-			<locationURI>copy_PARENT/Src/app_ethernet.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/ethernetif.c</name>
-			<type>1</type>
-			<locationURI>copy_PARENT/Src/ethernetif.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/main.c</name>
-			<type>1</type>
-			<locationURI>copy_PARENT/Src/main.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/stm32f7xx_hal_timebase_tim.c</name>
-			<type>1</type>
-			<locationURI>copy_PARENT/Src/stm32f7xx_hal_timebase_tim.c</locationURI>
-		</link>
-		<link>
-			<name>Application/User/stm32f7xx_it.c</name>
-			<type>1</type>
-			<locationURI>copy_PARENT/Src/stm32f7xx_it.c</locationURI>
-		</link>
-		<link>
 			<name>Application/Utilities/lcd_log.c</name>
 			<type>1</type>
 			<locationURI>copy_PARENT1/Utilities/Log/lcd_log.c</locationURI>
-		</link>
-		<link>
-			<name>Drivers/CMSIS/system_stm32f7xx.c</name>
-			<type>1</type>
-			<locationURI>copy_PARENT/Src/system_stm32f7xx.c</locationURI>
 		</link>
 		<link>
 			<name>Drivers/STM32F7xx_HAL_Driver/stm32f7xx_hal.c</name>
@@ -198,26 +163,6 @@
 			<name>Middlewares/FreeRTOS/timers.c</name>
 			<type>1</type>
 			<locationURI>copy_PARENT1/Middlewares/Third_Party/FreeRTOS/Source/timers.c</locationURI>
-		</link>
-		<link>
-			<name>Drivers/BSP/Components/lan8742.c</name>
-			<type>1</type>
-			<locationURI>copy_PARENT1/Drivers/BSP/Components/lan8742/lan8742.c</locationURI>
-		</link>
-		<link>
-			<name>Drivers/BSP/STM32746G_Discovery/stm32746g_discovery.c</name>
-			<type>1</type>
-			<locationURI>copy_PARENT1/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery.c</locationURI>
-		</link>
-		<link>
-			<name>Drivers/BSP/STM32746G_Discovery/stm32746g_discovery_lcd.c</name>
-			<type>1</type>
-			<locationURI>copy_PARENT1/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_lcd.c</locationURI>
-		</link>
-		<link>
-			<name>Drivers/BSP/STM32746G_Discovery/stm32746g_discovery_sdram.c</name>
-			<type>1</type>
-			<locationURI>copy_PARENT1/Drivers/BSP/STM32746G-Discovery/stm32746g_discovery_sdram.c</locationURI>
 		</link>
 		<link>
 			<name>Middlewares/FreeRTOS/portable/cmsis_os.c</name>

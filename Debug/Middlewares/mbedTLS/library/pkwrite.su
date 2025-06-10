@@ -1,0 +1,10 @@
+C:/Users/faiss/Desktop/Projet_final/Middlewares/mbedTLS/include/mbedtls/pk.h:141:36:mbedtls_pk_rsa	16	static
+C:/Users/faiss/Desktop/Projet_final/Middlewares/mbedTLS/include/mbedtls/pk.h:154:36:mbedtls_pk_ec	16	static
+../Middlewares/mbedTLS/library/pkwrite.c:64:12:pk_write_rsa_pubkey	56	static
+../Middlewares/mbedTLS/library/pkwrite.c:103:12:pk_write_ec_pubkey	176	static
+../Middlewares/mbedTLS/library/pkwrite.c:131:12:pk_write_ec_param	40	static
+../Middlewares/mbedTLS/library/pkwrite.c:148:5:mbedtls_pk_write_pubkey	32	static
+../Middlewares/mbedTLS/library/pkwrite.c:169:5:mbedtls_pk_write_pubkey_der	56	static
+../Middlewares/mbedTLS/library/pkwrite.c:217:5:mbedtls_pk_write_key_der	72	static
+../Middlewares/mbedTLS/library/pkwrite.c:454:5:mbedtls_pk_write_pubkey_pem	2136	static
+../Middlewares/mbedTLS/library/pkwrite.c:476:5:mbedtls_pk_write_key_pem	5736	static

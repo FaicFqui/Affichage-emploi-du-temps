@@ -1,0 +1,12 @@
+../Application/ssl_client_src/net_sockets.c:76:6:mbedtls_net_init	24	static
+../Application/ssl_client_src/net_sockets.c:84:5:mbedtls_net_connect	72	static
+../Application/ssl_client_src/net_sockets.c:130:5:mbedtls_net_bind	32	static
+../Application/ssl_client_src/net_sockets.c:141:5:mbedtls_net_accept	24	static
+../Application/ssl_client_src/net_sockets.c:152:5:mbedtls_net_set_block	16	static
+../Application/ssl_client_src/net_sockets.c:158:5:mbedtls_net_set_nonblock	16	static
+../Application/ssl_client_src/net_sockets.c:167:6:mbedtls_net_usleep	16	static
+../Application/ssl_client_src/net_sockets.c:175:5:mbedtls_net_recv	32	static
+../Application/ssl_client_src/net_sockets.c:213:5:mbedtls_net_recv_timeout	24	static
+../Application/ssl_client_src/net_sockets.c:222:12:net_would_block	24	static
+../Application/ssl_client_src/net_sockets.c:251:5:mbedtls_net_send	32	static
+../Application/ssl_client_src/net_sockets.c:289:6:mbedtls_net_free	16	static

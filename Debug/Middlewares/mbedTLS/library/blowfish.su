@@ -1,0 +1,10 @@
+../Middlewares/mbedTLS/library/blowfish.c:77:17:F	32	static
+../Middlewares/mbedTLS/library/blowfish.c:96:13:blowfish_enc	40	static
+../Middlewares/mbedTLS/library/blowfish.c:125:13:blowfish_dec	40	static
+../Middlewares/mbedTLS/library/blowfish.c:154:6:mbedtls_blowfish_init	16	static
+../Middlewares/mbedTLS/library/blowfish.c:159:6:mbedtls_blowfish_free	16	static
+../Middlewares/mbedTLS/library/blowfish.c:170:5:mbedtls_blowfish_setkey	48	static
+../Middlewares/mbedTLS/library/blowfish.c:228:5:mbedtls_blowfish_crypt_ecb	32	static
+../Middlewares/mbedTLS/library/blowfish.c:257:5:mbedtls_blowfish_crypt_cbc	40	static
+../Middlewares/mbedTLS/library/blowfish.c:311:5:mbedtls_blowfish_crypt_cfb64	32	static
+../Middlewares/mbedTLS/library/blowfish.c:359:5:mbedtls_blowfish_crypt_ctr	40	static
