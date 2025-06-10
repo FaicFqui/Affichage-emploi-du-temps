@@ -10,13 +10,15 @@ MbedTLS
 
 Environnement de développemnt : STM32CubeIDE v 1.17.0
 
-Le firmare permet d'envoyer une requette à un serveur HTTPS ( serveur de l'emploi du temps de notre école) ensuite
+Le firmare permet d'envoyer une requête à un serveur HTTPS ( serveur de l'emploi du temps de notre école) ensuite
 récupérer la réponse du serveur et l'afficher sur l'écran TFT de la STM32F746 DISCO.
 
 
 ![alt text](image.png)
 
+
 ![alt text](image-2.png)
+
 
 ![alt text](image-1.png)
 
